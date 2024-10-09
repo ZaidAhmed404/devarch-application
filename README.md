@@ -1,16 +1,26 @@
-# devarch_digital
+# Devarch Digital
 
-A new Flutter project.
+The objective is to create a one-page application that displays the details of a service with the following structure:
 
-## Getting Started
+## Service Details Section:
 
-This project is a starting point for a Flutter application.
+1.  Service Name
+2.  Description
+3.  Price
+Contact Button
+Seller avatar
+Seller name
+Subservices List View: Each subservice should display:
 
-A few resources to get you started if this is your first Flutter project:
+Subservice Name
+Add Button
+Upon clicking the Add Button, a dialog should appear to add a milestone to the subservice. Each milestone will include:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Date
+Price
+Description
+Proof (with three types of proof):
+Location Proof
+Image Proof
+Text Proof
+After adding a milestone, it should appear below the corresponding subservice.
