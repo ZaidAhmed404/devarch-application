@@ -1,5 +1,8 @@
 # Devarch Digital
 
+[Screencast from 10-10-2024 00:33:51.webm](https://github.com/user-attachments/assets/3361e9cb-1e2e-46b0-a0ad-d4faf7ec2549)
+
+
 The objective is to create a one-page application that displays the details of a service with the following structure:
 
 ## Service Details Section:
